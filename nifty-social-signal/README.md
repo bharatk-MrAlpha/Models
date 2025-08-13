@@ -117,16 +117,3 @@ Combined Daily Signal: BUY (mean=0.087, n=942)
 ```
 This is the mean of interval sentiment vs thresholds.
 
-## GitHub Actions (optional)
-
-A ready workflow runs on weekdays ~10:05 IST (04:35 UTC).  
-Add your bearer token as a repo secret named **`BEARER_TOKEN`**.
-
-```text
-Settings → Secrets and variables → Actions → New repository secret
-Name: BEARER_TOKEN
-Value: <your token>
-```
-
-Artifacts (CSV + PNG plots) will be attached to each run.
-
