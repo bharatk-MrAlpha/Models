@@ -1,0 +1,3 @@
+username,timestamp_ist,content,likes,retweets,replies,quotes,mentions,hashtags,content_clean,compound
+trader_ak,2025-08-13 08:42:00+05:30,BankNifty looks strong today! #banknifty #intraday,3,0,0,0,[],"['banknifty', 'intraday']",BankNifty looks strong today! #banknifty #intraday,0.61
+quant_guy,2025-08-13 08:54:00+05:30,Nifty50 facing resistance at open. Caution. #nifty50,5,1,1,0,[],['nifty50'],Nifty50 facing resistance at open. Caution. #nifty50,-0.2
