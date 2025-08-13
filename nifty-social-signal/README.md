@@ -7,7 +7,6 @@ Sentiment-driven trading signal generator for Indian market hashtags (`#nifty50`
 - Scores sentiment with **VADER** and aggregates to interval-level signals.
 - Outputs BUY/SELL/HOLD with confidence and lightweight plots.
 
-> ✅ Designed to run in Google Colab or locally.  
 > ✅ No paid API required beyond standard Twitter API v2 bearer token.  
 > ⚠️ Be mindful of rate limits; this repo batches requests efficiently.
 
