@@ -1,0 +1,10 @@
+BEARER_TOKEN="YOUR BEARER TOCKEN FROM TWEETER DEVELOPER"
+HASHTAGS="#nifty50,#sensex,#banknifty,#intraday"
+INTERVAL_MINUTES=15
+
+# Sentiment thresholds for signals
+BUY_THRESHOLD=0.05
+SELL_THRESHOLD=-0.05
+
+# Create PNG plots for the day (true/false)
+MAKE_PLOTS=true
