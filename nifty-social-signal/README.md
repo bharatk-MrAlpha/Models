@@ -26,7 +26,7 @@ python -c "import nltk; import ssl; ssl._create_default_https_context = ssl._cre
 ### 2) Configure
 Create `.env` from example and set your **Twitter Bearer Token**:
 ```bash
-cp .env.example .env
+copy dotenv.example .env
 # edit .env to set BEARER_TOKEN="YOUR_TOKEN"
 ```
 
