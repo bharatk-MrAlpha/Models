@@ -41,4 +41,4 @@ It also estimates Value at Risk (VaR) and Conditional Value at Risk (CVaR), whic
 - CVaR gives average loss in extreme downside cases.
 
 ## Author
-Developed by [Your Name].
+Developed by Bharat K.
